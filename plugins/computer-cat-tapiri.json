@@ -1,0 +1,13 @@
+{
+  "id": "tapiri",
+  "name": "Tapiri",
+  "capabilities": ["dankbar-widget"],  
+  "category": "utilities",
+  "repo": "https://github.com/computer-cat/tapiri-dms",
+  "author": "computer-cat",
+  "description": "Touch friendly window controls for Niri",
+  "dependencies": [],
+  "compositors": ["niri"],
+  "distro": ["any"],
+  "screenshot": "https://github.com/computer-cat/tapiri-dms/blob/main/assets/preview.png"
+}

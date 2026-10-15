@@ -6,4 +6,6 @@ A DMS Plugin that adds touch friendly window controls to your bar. Built for per
 
 
 ## How to install
-Move the plugins folder to ~/.config/DankMaterialShell
+DMS 1.6+: Add this git repo as a custom registry in DMS Settings > Plugins, then install it in Plugin Management.
+
+Alternative install method: Clone the repo and copy the `tapiri-dms` folder to `~/.config/DankMaterialShell/plugins`
